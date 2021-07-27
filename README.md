@@ -3,7 +3,13 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![HTML](https://img.shields.io/badge/HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript)
+
+### Learning / Planning to learn
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 ### Technologies
 
