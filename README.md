@@ -10,7 +10,7 @@
 
 ### Learning / Planning to learn
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=#000000)
 
 ### Technologies
 
