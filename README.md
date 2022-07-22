@@ -7,6 +7,7 @@
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=00599)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### Learning / Planning to learn
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
