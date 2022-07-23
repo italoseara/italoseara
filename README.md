@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=#000000)
 
-### Technologies
+### Frameworks
 
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Linux)
