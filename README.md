@@ -1,21 +1,22 @@
 ### Skills
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=00599)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Learning / Planning to learn
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=#000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Linux)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=italoseara&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoseara&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoseara&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoseara&hide_progress=true)
