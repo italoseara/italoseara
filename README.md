@@ -19,4 +19,4 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoseara&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoseara&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoseara&theme=transparent&hide_progress=true)
