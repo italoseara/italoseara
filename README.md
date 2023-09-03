@@ -58,6 +58,7 @@
 
 ## 📫 **How to reach me**
 
+<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/italoseara/" target="blank">
   <img align="center"
@@ -74,6 +75,7 @@
     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
     alt="azzar" height="30"/>
 </a>
+</p>
 
 </body>
 </html>
