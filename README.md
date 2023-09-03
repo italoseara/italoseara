@@ -2,12 +2,11 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="./imgs/waving.gif">,I'm Italo</h1>
+  <h1 align="center">Hi <img width="35" src="./imgs/waving.gif">,I'm Ítalo</h1>
   <h4 align="center">A passionate developer from Brazil</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="./imgs/grid-snake.svg" alt="snake" /></a>
 </div>
 
