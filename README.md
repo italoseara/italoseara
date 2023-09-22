@@ -2,7 +2,7 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="./imgs/waving.gif">, I'm Ítalo</h1>
+  <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/italoseara/italoseara/main/imgs/waving.gif">, I'm Ítalo</h1>
   <h4 align="center">A passionate developer from Brazil</h4>
 </div>
 
