@@ -12,63 +12,39 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/italoseara/italoseara/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🧮 **About me**
+---
 
-- 🎓 I'm a Computer Science student at [UESC](http://uesc.br/).
-- 🌱 Always learning
-- 🏢 I'm open for internship and job opportunities
-- ⚡ Fun fact: I love to play games
+**Backend developer in training** · Computer Science student @ [UESC](http://uesc.br/) · Open to internship/junior backend opportunities
 
------
+I build systems that need to hold up under real usage — APIs, persistence, auth, and the boring parts that actually matter in production. Most of my hands-on experience comes from running and building for real Minecraft server communities: real users, real concurrency, real edge cases, not textbook exercises.
 
-## 🛠️ **Skills**
+---
 
-- **Languages**
+## What I'm focused on
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+- 🔧 Backend, APIs, and data persistence — Python and Java, learning Go
+- 🎮 Applying real production concerns (auth, queues, observability) to systems I already understand deeply from running Minecraft server infrastructure
+- 📚 Computer Science student, always shipping something on the side
+- 🟢 Open to internship / junior backend roles
 
-- **Front-End Development**
+---
 
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Stack
 
-- **Frameworks**
+### Core
+![Python](https://img.shields.io/badge/Python%20-%23143540.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C%20-%23237ED.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-    ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs)
-    ![Pygame](https://img.shields.io/badge/Pygame%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Love2D](https://img.shields.io/badge/Love2D-ea316e?style=for-the-badge&logo=lua)
+### Web & data
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Softwares and Tools**
+### Tools
+![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+---
 
------
+## 📫 Reach me
 
-## 📫 **How to reach me**
-
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/italoseara/" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-<a href="mailto:italo.sseara@gmail.com" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoseara/) [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italo.sseara@gmail.com)
 
 </body>
 </html>
